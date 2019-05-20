@@ -1,0 +1,3 @@
+[submodule "Zappy_server"]
+	path = Zappy_server
+	url = https://github.com/Kaserta/Zappy_server.git
