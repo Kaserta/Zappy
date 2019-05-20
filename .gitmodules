@@ -4,3 +4,6 @@
 [submodule "Graphical_client"]
 	path = Graphical_client
 	url = https://github.com/Kaserta/Graphical_client.git
+[submodule "Client_IA"]
+	path = Client_IA
+	url = https://github.com/Kaserta/Client_IA.git
