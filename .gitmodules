@@ -1,3 +1,6 @@
 [submodule "Zappy_server"]
 	path = Zappy_server
 	url = https://github.com/Kaserta/Zappy_server.git
+[submodule "Graphical_client"]
+	path = Graphical_client
+	url = https://github.com/Kaserta/Graphical_client.git
