@@ -7,14 +7,14 @@
 ## Fiche du projet  
 1. ### Description du projet  
 
-Le but de ce projet et de créer un jeu en réseau.
+Le but de ce projet est de créer un jeu en réseau.
 Dans ce jeu, plusieurs teams devront chercher sur une carte différente ressources
-afin de s'élever ( gaganer un niveau).
+afin de s'élever (gagner un niveau).
 La premiere équipe dont 6 joueurs ont atteint le niveau maximum (niveau 8) gagne la partie.
   
 2. ### Managment du projet
-Ce projet est un rijet a réalisé a 6 personnes. Des taches ont donc été assigné a chacun des différents membres du groupes.  
-  
+Ce projet est un projet a réalisé à 6 personnes. Des taches ont donc été assigné à chacun des différents membres du groupe.
+
  - Front End (Une partie graphique en JS).  
  - Back End (Serveur en C et une intelligence artificielle en Python).  
  - DevOps Processes (Gestion d'un Github ségmenté en 3 parties distinctes)  
@@ -28,7 +28,7 @@ Ce projet est un rijet a réalisé a 6 personnes. Des taches ont donc été assi
 
 Configuration et gestion du GitHub:   
 * Aucun push sur la branch master (utilisation de nombreuses branches).
-* Intégralité du code commenté (Doxygen).  
+* Code commenté (Doxygen).  
 
 Outils utilisés:
 * Git Glo
